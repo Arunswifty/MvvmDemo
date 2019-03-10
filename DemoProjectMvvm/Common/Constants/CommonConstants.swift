@@ -2,8 +2,8 @@
 //  ApiRouter.swift
 //  DemoProjectMvvm
 //
-//  Created by Arun-Swifty on 17/01/19.
-//  Copyright © 2019 Arun-Swifty. All rights reserved.
+//  Created by ArunSwifty on 17/01/19.
+//  Copyright © 2019 ArunSwifty. All rights reserved.
 //
 
 import Foundation

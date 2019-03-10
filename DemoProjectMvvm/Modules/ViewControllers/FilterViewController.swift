@@ -2,8 +2,8 @@
 //  FilterDataVc.swift
 //  DemoProjectMvvm
 //
-//  Created by Arun-Swifty on 18/01/19.
-//  Copyright © 2019 Arun-Swifty. All rights reserved.
+//  Created by ArunSwifty on 18/01/19.
+//  Copyright © 2019 ArunSwifty. All rights reserved.
 //
 
 import UIKit

@@ -2,8 +2,8 @@
 //  ContactViewModelTest.swift
 //  DemoProjectMvvmTests
 //
-//  Created by Arun-Swifty on 24/01/19.
-//  Copyright © 2019 Arun-Swifty. All rights reserved.
+//  Created by ArunSwifty on 24/01/19.
+//  Copyright © 2019 ArunSwifty. All rights reserved.
 //
 
 import XCTest
